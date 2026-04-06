@@ -53,6 +53,3 @@ Interactive dashboard for data-driven decisions.
 
 ---
 
-## 👤 Author
-
-Kanchan Awari

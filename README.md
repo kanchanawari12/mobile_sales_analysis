@@ -8,7 +8,7 @@ This project analyzes mobile sales data using Power BI to track performance, tre
 
 ## 📷 Dashboard Preview
 
-![Mobile Sales Dashboard](dashboard.png)
+![Mobile Sales Dashboard](https://github.com/kanchanawari12/mobile_sales_analysis/blob/main/Screenshot%202026-04-06%20224349.png)
 
 ---
 
